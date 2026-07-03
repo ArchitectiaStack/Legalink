@@ -1,0 +1,8 @@
+{
+  "name": "Legalink",
+  "description": "Premium corporate law consultancy firm landing page featuring interactive service matrices, historical horizontal timelines, elite partner spotlights, real-time analytics dashboards, and a secure client counsel portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
